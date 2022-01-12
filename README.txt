@@ -3,5 +3,4 @@
 3. create a folder/directory containing a file
 ====== please make changes below =======
 this is cookie
-
-hello
+learn something new!
